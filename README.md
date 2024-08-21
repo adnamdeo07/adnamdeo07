@@ -2,6 +2,7 @@
 - 👀 I’m interested in front-end delopment  
 - 🌱 I’m currently learning computer science eng.
 - 📫 How to reach me @adnamdeo07 (on instragram)
+- linkedin - www.linkedin.com/in/aditya-namdeo-6744542a9
 - 😄 Pronouns: adnamdeo
 
 <!---
